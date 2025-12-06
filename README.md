@@ -36,13 +36,7 @@
 ### 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=HtetAungHtet&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HtetAungHtet&theme=tokyonight" alt="GitHub streak" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HtetAungHtet&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
