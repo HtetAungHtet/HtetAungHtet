@@ -35,7 +35,7 @@
 
 ### 📊 GitHub Stats
 
-<p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HtetAungHtet&theme=tokyonight" alt="GitHub streak" />
 </p>
 
