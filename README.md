@@ -50,7 +50,9 @@
 ### 📬 Connect with me
 
 <p>
-  ![Static Badge](https://img.shields.io/badge/facebook-%230866FF?style=for-the-badge&logo=facebook&link=https%3A%2F%2Fwww.facebook.com%2Fhtet.aunghtet.980)
+  <a href="https://www.facebook.com/htet.aunghtet.980">
+    <img src="https://img.shields.io/badge/facebook-%230866FF?style=for-the-badge&logo=facebook" />
+  </a>
 
   <a href="https://www.linkedin.com/in/htet-aung-htet/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
