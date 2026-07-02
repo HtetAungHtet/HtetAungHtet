@@ -14,9 +14,7 @@
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/HtetAungHtet/HtetAungHtet/snake-output/snake.svg" alt="Snake animation" />
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxpdDZvc2VmcnQza2pmbDFtZDF6a3luNGd0cXJ4MG9nYmo0Z3V3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bPpbIixzpGKG0M4fBq/giphy.gif"  />
-</div>
+<img data-importer="image" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmxpdDZvc2VmcnQza2pmbDFtZDF6a3luNGd0cXJ4MG9nYmo0Z3V3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bPpbIixzpGKG0M4fBq/giphy.gif"  />
 
 ###
 
