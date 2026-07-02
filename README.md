@@ -11,6 +11,6 @@
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=HtetAungHtet&theme=default_repocard&hide_border=false)<br/>
 
+<img data-importer="snake" src="https://raw.githubusercontent.com/HtetAungHtet/HtetAungHtet/snake-output/snake.svg" alt="Snake animation" />
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
