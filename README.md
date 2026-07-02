@@ -11,6 +11,10 @@
 # 📊 GitHub Stats:
 ![](https://streak-stats.demolab.com/?user=HtetAungHtet&theme=default_repocard&hide_border=false)<br/>
 
+<img data-importer="image" align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExczAwb3MwbWVvOGs0ZmFvMnp3MHo2Y2kweDRrZWkybG80MWQyMGoxdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OgR2Atf7tNrquqS9xl/giphy.gif"  />
+
+###
+
 <img data-importer="snake" src="https://raw.githubusercontent.com/HtetAungHtet/HtetAungHtet/snake-output/snake.svg" alt="Snake animation" />
 
 ###
