@@ -15,11 +15,9 @@
     <img src="https://streak-stats.demolab.com/?user=HtetAungHtet&theme=default_repocard&hide_border=false" alt="HtetAungHtet GitHub Streak" />
   </a>
 
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHB6YzMzZmphYml1ZnBxYzQyeHYwcW0waTNjcXVjejN2MGtiYjBldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiDplerbPHYnjLUo5i/giphy.gif" 
-       alt="Coding GIF" 
-       height="180" 
-       style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+<img data-importer="image" align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHB6YzMzZmphYml1ZnBxYzQyeHYwcW0waTNjcXVjejN2MGtiYjBldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiDplerbPHYnjLUo5i/giphy.gif"  />
 
+###
 </div>
 
 ###
