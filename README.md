@@ -24,7 +24,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHB6YzMzZmphYml1ZnBxYzQyeHYwcW0waTNjcXVjejN2MGtiYjBldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WiDplerbPHYnjLUo5i/giphy.gif"  />
+  <img data-importer="image" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDFwY3Ixam02MHBxdTBtNmdpb29iZTlpMzRkbXg2dnl3dmpvemlscyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WRsbyaGN8Fwrx9qLTn/giphy.gif"  />
 </div>
 
 ###
