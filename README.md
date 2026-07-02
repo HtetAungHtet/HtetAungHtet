@@ -10,7 +10,7 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  ![](https://streak-stats.demolab.com/?user=HtetAungHtet&theme=default_repocard&hide_border=false)<br/>
+  <img src="https://streak-stats.demolab.com/?user=HtetAungHtet&theme=default_repocard&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
 
